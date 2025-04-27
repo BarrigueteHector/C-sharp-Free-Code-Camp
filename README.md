@@ -1,2 +1,4 @@
 # C-sharp-Free-Code-Camp
-https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/
+Curso: https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/
+
+C# en VS code: https://code.visualstudio.com/docs/languages/csharp
