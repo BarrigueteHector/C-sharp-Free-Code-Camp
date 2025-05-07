@@ -1,5 +1,5 @@
 # C-sharp-Free-Code-Camp
-[Curso](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/)
+[Free code camp: C# con Microsoft (Curso)](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/)
 
 [C# en VS code](https://code.visualstudio.com/docs/languages/csharp)
 
